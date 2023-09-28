@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HZR3qHpWce4pWlGXm3xsmZs56I90wYm3X1hI4wDsd2Z62YZJ+4r6k/MAG7mUxddBCxig1X92HlUNf3JjPRL3cw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\asl11\\source\\repos\\LOAN\\LOAN\\LOAN.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\asl11\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

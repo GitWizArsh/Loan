@@ -1,0 +1,16 @@
+C:\Users\asl11\source\repos\LOAN\LOAN\bin\Debug\netcoreapp3.1\LOAN.exe
+C:\Users\asl11\source\repos\LOAN\LOAN\bin\Debug\netcoreapp3.1\LOAN.deps.json
+C:\Users\asl11\source\repos\LOAN\LOAN\bin\Debug\netcoreapp3.1\LOAN.runtimeconfig.json
+C:\Users\asl11\source\repos\LOAN\LOAN\bin\Debug\netcoreapp3.1\LOAN.runtimeconfig.dev.json
+C:\Users\asl11\source\repos\LOAN\LOAN\bin\Debug\netcoreapp3.1\LOAN.dll
+C:\Users\asl11\source\repos\LOAN\LOAN\bin\Debug\netcoreapp3.1\LOAN.pdb
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.csproj.AssemblyReference.cache
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.Form1.resources
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.csproj.GenerateResource.cache
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.AssemblyInfoInputs.cache
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.AssemblyInfo.cs
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.csproj.CoreCompileInputs.cache
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.dll
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.pdb
+C:\Users\asl11\source\repos\LOAN\LOAN\obj\Debug\netcoreapp3.1\LOAN.genruntimeconfig.cache
